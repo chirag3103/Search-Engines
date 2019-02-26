@@ -1,0 +1,1413 @@
+---------------------------
+Positional Inverted Index
+[WORD: 1, DF: 1] -->
+[DOCID: "1",pos 2,pos 86 , TF: 2]
+
+[WORD: 10, DF: 1] -->
+[DOCID: "10",pos 2 , TF: 1]
+
+[WORD: 100, DF: 1] -->
+[DOCID: "8",pos 12 , TF: 1]
+
+[WORD: 2, DF: 2] -->
+[DOCID: "2",pos 2 , TF: 1]
+[DOCID: "8",pos 23 , TF: 1]
+
+[WORD: 200, DF: 1] -->
+[DOCID: "8",pos 29 , TF: 1]
+
+[WORD: 2013, DF: 1] -->
+[DOCID: "1",pos 10 , TF: 1]
+
+[WORD: 2015, DF: 1] -->
+[DOCID: "1",pos 78 , TF: 1]
+
+[WORD: 3, DF: 1] -->
+[DOCID: "3",pos 2 , TF: 1]
+
+[WORD: 4, DF: 1] -->
+[DOCID: "4",pos 2 , TF: 1]
+
+[WORD: 5, DF: 2] -->
+[DOCID: "1",pos 67 , TF: 1]
+[DOCID: "5",pos 2 , TF: 1]
+
+[WORD: 6, DF: 1] -->
+[DOCID: "6",pos 2 , TF: 1]
+
+[WORD: 6mos, DF: 1] -->
+[DOCID: "4",pos 23 , TF: 1]
+
+[WORD: 7, DF: 2] -->
+[DOCID: "6",pos 6,pos 33 , TF: 2]
+[DOCID: "7",pos 2 , TF: 1]
+
+[WORD: 720p, DF: 1] -->
+[DOCID: "4",pos 55 , TF: 1]
+
+[WORD: 8, DF: 1] -->
+[DOCID: "8",pos 2 , TF: 1]
+
+[WORD: 9, DF: 1] -->
+[DOCID: "9",pos 2 , TF: 1]
+
+[WORD: able, DF: 1] -->
+[DOCID: "2",pos 52 , TF: 1]
+
+[WORD: about, DF: 2] -->
+[DOCID: "2",pos 31 , TF: 1]
+[DOCID: "6",pos 48 , TF: 1]
+
+[WORD: acknowledge, DF: 1] -->
+[DOCID: "8",pos 51,pos 163 , TF: 2]
+
+[WORD: actually, DF: 1] -->
+[DOCID: "3",pos 81 , TF: 1]
+
+[WORD: add, DF: 1] -->
+[DOCID: "8",pos 71 , TF: 1]
+
+[WORD: addition, DF: 1] -->
+[DOCID: "6",pos 20 , TF: 1]
+
+[WORD: after, DF: 1] -->
+[DOCID: "6",pos 35 , TF: 1]
+
+[WORD: again, DF: 3] -->
+[DOCID: "2",pos 103 , TF: 1]
+[DOCID: "3",pos 72 , TF: 1]
+[DOCID: "8",pos 91,pos 159 , TF: 2]
+
+[WORD: ago, DF: 1] -->
+[DOCID: "2",pos 16 , TF: 1]
+
+[WORD: air, DF: 1] -->
+[DOCID: "8",pos 9 , TF: 1]
+
+[WORD: all, DF: 2] -->
+[DOCID: "2",pos 123 , TF: 1]
+[DOCID: "3",pos 63 , TF: 1]
+
+[WORD: allow, DF: 1] -->
+[DOCID: "7",pos 23 , TF: 1]
+
+[WORD: also, DF: 1] -->
+[DOCID: "3",pos 64 , TF: 1]
+
+[WORD: although, DF: 1] -->
+[DOCID: "8",pos 132 , TF: 1]
+
+[WORD: am, DF: 1] -->
+[DOCID: "4",pos 50 , TF: 1]
+
+[WORD: amazing, DF: 1] -->
+[DOCID: "8",pos 142 , TF: 1]
+
+[WORD: america, DF: 1] -->
+[DOCID: "8",pos 67 , TF: 1]
+
+[WORD: amount, DF: 1] -->
+[DOCID: "8",pos 176 , TF: 1]
+
+[WORD: an, DF: 3] -->
+[DOCID: "2",pos 23,pos 35,pos 107,pos 117 , TF: 4]
+[DOCID: "8",pos 5 , TF: 1]
+[DOCID: "10",pos 18 , TF: 1]
+
+[WORD: android, DF: 2] -->
+[DOCID: "2",pos 36 , TF: 1]
+[DOCID: "6",pos 38 , TF: 1]
+
+[WORD: another, DF: 1] -->
+[DOCID: "8",pos 98 , TF: 1]
+
+[WORD: appreciate, DF: 1] -->
+[DOCID: "6",pos 23 , TF: 1]
+
+[WORD: are, DF: 2] -->
+[DOCID: "6",pos 21 , TF: 1]
+[DOCID: "8",pos 188 , TF: 1]
+
+[WORD: armor, DF: 1] -->
+[DOCID: "2",pos 80 , TF: 1]
+
+[WORD: as, DF: 4] -->
+[DOCID: "4",pos 65,pos 67 , TF: 2]
+[DOCID: "8",pos 192 , TF: 1]
+[DOCID: "9",pos 69 , TF: 1]
+[DOCID: "10",pos 17 , TF: 1]
+
+[WORD: ask, DF: 1] -->
+[DOCID: "9",pos 31 , TF: 1]
+
+[WORD: asu, DF: 3] -->
+[DOCID: "1",pos 43,pos 66 , TF: 2]
+[DOCID: "3",pos 28 , TF: 1]
+[DOCID: "8",pos 27,pos 48,pos 124,pos 146,pos 161 , TF: 5]
+
+[WORD: automatic, DF: 1] -->
+[DOCID: "8",pos 70 , TF: 1]
+
+[WORD: avoid, DF: 1] -->
+[DOCID: "8",pos 145 , TF: 1]
+
+[WORD: awesome, DF: 1] -->
+[DOCID: "1",pos 33 , TF: 1]
+
+[WORD: awful, DF: 1] -->
+[DOCID: "1",pos 88 , TF: 1]
+
+[WORD: back, DF: 2] -->
+[DOCID: "1",pos 36 , TF: 1]
+[DOCID: "2",pos 47 , TF: 1]
+
+[WORD: bad, DF: 1] -->
+[DOCID: "3",pos 21,pos 71 , TF: 2]
+
+[WORD: battery, DF: 1] -->
+[DOCID: "5",pos 26 , TF: 1]
+
+[WORD: be, DF: 1] -->
+[DOCID: "3",pos 44 , TF: 1]
+
+[WORD: became, DF: 1] -->
+[DOCID: "8",pos 103 , TF: 1]
+
+[WORD: because, DF: 1] -->
+[DOCID: "8",pos 115,pos 149 , TF: 2]
+
+[WORD: been, DF: 2] -->
+[DOCID: "4",pos 5 , TF: 1]
+[DOCID: "8",pos 181 , TF: 1]
+
+[WORD: before, DF: 1] -->
+[DOCID: "2",pos 25 , TF: 1]
+
+[WORD: being, DF: 1] -->
+[DOCID: "2",pos 51 , TF: 1]
+
+[WORD: big, DF: 2] -->
+[DOCID: "2",pos 66 , TF: 1]
+[DOCID: "4",pos 69 , TF: 1]
+
+[WORD: birthday, DF: 1] -->
+[DOCID: "2",pos 14 , TF: 1]
+
+[WORD: books, DF: 1] -->
+[DOCID: "4",pos 8 , TF: 1]
+
+[WORD: bought, DF: 3] -->
+[DOCID: "4",pos 14 , TF: 1]
+[DOCID: "5",pos 7 , TF: 1]
+[DOCID: "8",pos 77 , TF: 1]
+
+[WORD: brick, DF: 1] -->
+[DOCID: "8",pos 3 , TF: 1]
+
+[WORD: browse, DF: 1] -->
+[DOCID: "4",pos 37 , TF: 1]
+
+[WORD: but, DF: 6] -->
+[DOCID: "1",pos 25 , TF: 1]
+[DOCID: "2",pos 39,pos 95,pos 111 , TF: 3]
+[DOCID: "3",pos 35,pos 53 , TF: 2]
+[DOCID: "4",pos 76 , TF: 1]
+[DOCID: "9",pos 73 , TF: 1]
+[DOCID: "10",pos 21 , TF: 1]
+
+[WORD: button, DF: 1] -->
+[DOCID: "2",pos 48 , TF: 1]
+
+[WORD: buy, DF: 1] -->
+[DOCID: "8",pos 85 , TF: 1]
+
+[WORD: by, DF: 2] -->
+[DOCID: "8",pos 4,pos 46 , TF: 2]
+[DOCID: "9",pos 85 , TF: 1]
+
+[WORD: camera, DF: 2] -->
+[DOCID: "2",pos 91 , TF: 1]
+[DOCID: "6",pos 19 , TF: 1]
+
+[WORD: can, DF: 2] -->
+[DOCID: "6",pos 10 , TF: 1]
+[DOCID: "9",pos 60 , TF: 1]
+
+[WORD: case, DF: 1] -->
+[DOCID: "2",pos 84 , TF: 1]
+
+[WORD: charge, DF: 1] -->
+[DOCID: "3",pos 18,pos 31,pos 65 , TF: 3]
+
+[WORD: child, DF: 1] -->
+[DOCID: "9",pos 72,pos 79 , TF: 2]
+
+[WORD: claim, DF: 1] -->
+[DOCID: "8",pos 82 , TF: 1]
+
+[WORD: common, DF: 1] -->
+[DOCID: "8",pos 99 , TF: 1]
+
+[WORD: company, DF: 1] -->
+[DOCID: "8",pos 131 , TF: 1]
+
+[WORD: compare, DF: 2] -->
+[DOCID: "1",pos 21,pos 56 , TF: 2]
+[DOCID: "6",pos 62 , TF: 1]
+
+[WORD: complete, DF: 1] -->
+[DOCID: "8",pos 127 , TF: 1]
+
+[WORD: completely, DF: 1] -->
+[DOCID: "8",pos 148 , TF: 1]
+
+[WORD: confidence, DF: 1] -->
+[DOCID: "8",pos 129 , TF: 1]
+
+[WORD: control, DF: 1] -->
+[DOCID: "7",pos 5 , TF: 1]
+
+[WORD: convenience, DF: 1] -->
+[DOCID: "4",pos 77 , TF: 1]
+
+[WORD: convince, DF: 1] -->
+[DOCID: "9",pos 21 , TF: 1]
+
+[WORD: cooler, DF: 1] -->
+[DOCID: "3",pos 48 , TF: 1]
+
+[WORD: cost, DF: 1] -->
+[DOCID: "8",pos 173 , TF: 1]
+
+[WORD: could, DF: 1] -->
+[DOCID: "10",pos 9 , TF: 1]
+
+[WORD: count, DF: 1] -->
+[DOCID: "4",pos 82 , TF: 1]
+
+[WORD: counter, DF: 1] -->
+[DOCID: "1",pos 35 , TF: 1]
+
+[WORD: crappy, DF: 1] -->
+[DOCID: "9",pos 8 , TF: 1]
+
+[WORD: cursor, DF: 1] -->
+[DOCID: "2",pos 55 , TF: 1]
+
+[WORD: customer, DF: 1] -->
+[DOCID: "8",pos 191 , TF: 1]
+
+[WORD: d, DF: 1] -->
+[DOCID: "2",pos 20 , TF: 1]
+
+[WORD: days, DF: 1] -->
+[DOCID: "1",pos 31 , TF: 1]
+
+[WORD: dealings, DF: 1] -->
+[DOCID: "8",pos 122 , TF: 1]
+
+[WORD: dedicated, DF: 1] -->
+[DOCID: "4",pos 72 , TF: 1]
+
+[WORD: defective, DF: 1] -->
+[DOCID: "8",pos 166 , TF: 1]
+
+[WORD: delete, DF: 1] -->
+[DOCID: "7",pos 8 , TF: 1]
+
+[WORD: deserve, DF: 1] -->
+[DOCID: "9",pos 80 , TF: 1]
+
+[WORD: device, DF: 3] -->
+[DOCID: "2",pos 99 , TF: 1]
+[DOCID: "5",pos 23 , TF: 1]
+[DOCID: "10",pos 30 , TF: 1]
+
+[WORD: devicewear, DF: 1] -->
+[DOCID: "2",pos 83 , TF: 1]
+
+[WORD: dice, DF: 1] -->
+[DOCID: "8",pos 156 , TF: 1]
+
+[WORD: difference, DF: 1] -->
+[DOCID: "6",pos 13 , TF: 1]
+
+[WORD: disaster, DF: 1] -->
+[DOCID: "9",pos 48 , TF: 1]
+
+[WORD: do, DF: 5] -->
+[DOCID: "1",pos 18,pos 48 , TF: 2]
+[DOCID: "7",pos 11 , TF: 1]
+[DOCID: "8",pos 185 , TF: 1]
+[DOCID: "9",pos 3 , TF: 1]
+[DOCID: "10",pos 6 , TF: 1]
+
+[WORD: doc, DF: 10] -->
+[DOCID: "1",pos 1,pos 92 , TF: 2]
+[DOCID: "2",pos 1,pos 130 , TF: 2]
+[DOCID: "3",pos 1,pos 84 , TF: 2]
+[DOCID: "4",pos 1,pos 96 , TF: 2]
+[DOCID: "5",pos 1,pos 38 , TF: 2]
+[DOCID: "6",pos 1,pos 74 , TF: 2]
+[DOCID: "7",pos 1,pos 26 , TF: 2]
+[DOCID: "8",pos 1,pos 196 , TF: 2]
+[DOCID: "9",pos 1,pos 90 , TF: 2]
+[DOCID: "10",pos 1,pos 31 , TF: 2]
+
+[WORD: drop, DF: 1] -->
+[DOCID: "5",pos 31 , TF: 1]
+
+[WORD: e, DF: 1] -->
+[DOCID: "10",pos 19 , TF: 1]
+
+[WORD: ease, DF: 1] -->
+[DOCID: "4",pos 53 , TF: 1]
+
+[WORD: easily, DF: 1] -->
+[DOCID: "6",pos 11 , TF: 1]
+
+[WORD: ebay, DF: 1] -->
+[DOCID: "8",pos 87 , TF: 1]
+
+[WORD: ebook, DF: 1] -->
+[DOCID: "2",pos 72 , TF: 1]
+
+[WORD: edit, DF: 1] -->
+[DOCID: "4",pos 42,pos 54,pos 74 , TF: 3]
+
+[WORD: elective, DF: 1] -->
+[DOCID: "7",pos 24 , TF: 1]
+
+[WORD: emulate, DF: 1] -->
+[DOCID: "4",pos 35 , TF: 1]
+
+[WORD: end, DF: 2] -->
+[DOCID: "8",pos 54 , TF: 1]
+[DOCID: "9",pos 43 , TF: 1]
+
+[WORD: environment, DF: 1] -->
+[DOCID: "3",pos 49 , TF: 1]
+
+[WORD: estimate, DF: 1] -->
+[DOCID: "8",pos 63 , TF: 1]
+
+[WORD: etc, DF: 1] -->
+[DOCID: "5",pos 35 , TF: 1]
+
+[WORD: even, DF: 2] -->
+[DOCID: "1",pos 39,pos 77,pos 89 , TF: 3]
+[DOCID: "8",pos 139 , TF: 1]
+
+[WORD: everything, DF: 1] -->
+[DOCID: "10",pos 7 , TF: 1]
+
+[WORD: expensive, DF: 1] -->
+[DOCID: "8",pos 194 , TF: 1]
+
+[WORD: experienced, DF: 1] -->
+[DOCID: "8",pos 45 , TF: 1]
+
+[WORD: express, DF: 1] -->
+[DOCID: "8",pos 68 , TF: 1]
+
+[WORD: fail, DF: 1] -->
+[DOCID: "8",pos 96 , TF: 1]
+
+[WORD: fall, DF: 1] -->
+[DOCID: "9",pos 5 , TF: 1]
+
+[WORD: fast, DF: 2] -->
+[DOCID: "2",pos 127 , TF: 1]
+[DOCID: "6",pos 27 , TF: 1]
+
+[WORD: feel, DF: 1] -->
+[DOCID: "6",pos 26 , TF: 1]
+
+[WORD: feeling, DF: 1] -->
+[DOCID: "6",pos 53 , TF: 1]
+
+[WORD: few, DF: 2] -->
+[DOCID: "3",pos 8 , TF: 1]
+[DOCID: "4",pos 10 , TF: 1]
+
+[WORD: finally, DF: 1] -->
+[DOCID: "4",pos 13 , TF: 1]
+
+[WORD: fine, DF: 1] -->
+[DOCID: "2",pos 104 , TF: 1]
+
+[WORD: first, DF: 2] -->
+[DOCID: "3",pos 7 , TF: 1]
+[DOCID: "8",pos 18,pos 120 , TF: 2]
+
+[WORD: five, DF: 1] -->
+[DOCID: "3",pos 77 , TF: 1]
+
+[WORD: fix, DF: 1] -->
+[DOCID: "8",pos 31 , TF: 1]
+
+[WORD: fixed, DF: 2] -->
+[DOCID: "3",pos 34 , TF: 1]
+[DOCID: "8",pos 165 , TF: 1]
+
+[WORD: flaw, DF: 1] -->
+[DOCID: "9",pos 39 , TF: 1]
+
+[WORD: flawless, DF: 1] -->
+[DOCID: "1",pos 69 , TF: 1]
+
+[WORD: for, DF: 5] -->
+[DOCID: "2",pos 12,pos 122 , TF: 2]
+[DOCID: "3",pos 6,pos 29 , TF: 2]
+[DOCID: "4",pos 9,pos 21,pos 31 , TF: 3]
+[DOCID: "8",pos 17,pos 97 , TF: 2]
+[DOCID: "9",pos 6,pos 17 , TF: 2]
+
+[WORD: from, DF: 3] -->
+[DOCID: "1",pos 29,pos 45,pos 65,pos 84 , TF: 4]
+[DOCID: "4",pos 57 , TF: 1]
+[DOCID: "6",pos 4 , TF: 1]
+
+[WORD: frustrate, DF: 1] -->
+[DOCID: "9",pos 84 , TF: 1]
+
+[WORD: function, DF: 1] -->
+[DOCID: "3",pos 51 , TF: 1]
+
+[WORD: games, DF: 2] -->
+[DOCID: "4",pos 34 , TF: 1]
+[DOCID: "10",pos 28 , TF: 1]
+
+[WORD: garbage, DF: 1] -->
+[DOCID: "9",pos 59 , TF: 1]
+
+[WORD: gear, DF: 1] -->
+[DOCID: "1",pos 71 , TF: 1]
+
+[WORD: get, DF: 5] -->
+[DOCID: "2",pos 32 , TF: 1]
+[DOCID: "3",pos 76 , TF: 1]
+[DOCID: "4",pos 88 , TF: 1]
+[DOCID: "8",pos 61 , TF: 1]
+[DOCID: "9",pos 82 , TF: 1]
+
+[WORD: give, DF: 1] -->
+[DOCID: "9",pos 67 , TF: 1]
+
+[WORD: go, DF: 1] -->
+[DOCID: "3",pos 70 , TF: 1]
+
+[WORD: good, DF: 4] -->
+[DOCID: "2",pos 75 , TF: 1]
+[DOCID: "4",pos 66 , TF: 1]
+[DOCID: "5",pos 22,pos 25 , TF: 2]
+[DOCID: "8",pos 137 , TF: 1]
+
+[WORD: google, DF: 3] -->
+[DOCID: "1",pos 46,pos 47,pos 85 , TF: 3]
+[DOCID: "7",pos 4,pos 21 , TF: 2]
+[DOCID: "8",pos 37 , TF: 1]
+
+[WORD: gopro, DF: 1] -->
+[DOCID: "4",pos 44 , TF: 1]
+
+[WORD: got, DF: 2] -->
+[DOCID: "3",pos 68 , TF: 1]
+[DOCID: "8",pos 88 , TF: 1]
+
+[WORD: great, DF: 5] -->
+[DOCID: "1",pos 72 , TF: 1]
+[DOCID: "2",pos 121 , TF: 1]
+[DOCID: "3",pos 5 , TF: 1]
+[DOCID: "6",pos 15 , TF: 1]
+[DOCID: "10",pos 4 , TF: 1]
+
+[WORD: guess, DF: 1] -->
+[DOCID: "6",pos 41 , TF: 1]
+
+[WORD: had, DF: 4] -->
+[DOCID: "3",pos 23 , TF: 1]
+[DOCID: "4",pos 19 , TF: 1]
+[DOCID: "8",pos 162 , TF: 1]
+[DOCID: "9",pos 54 , TF: 1]
+
+[WORD: happen, DF: 1] -->
+[DOCID: "8",pos 22 , TF: 1]
+
+[WORD: happy, DF: 2] -->
+[DOCID: "4",pos 86 , TF: 1]
+[DOCID: "6",pos 70 , TF: 1]
+
+[WORD: hard, DF: 1] -->
+[DOCID: "9",pos 14,pos 16 , TF: 2]
+
+[WORD: hardware, DF: 2] -->
+[DOCID: "1",pos 64 , TF: 1]
+[DOCID: "9",pos 88 , TF: 1]
+
+[WORD: has, DF: 2] -->
+[DOCID: "1",pos 12,pos 42 , TF: 2]
+[DOCID: "5",pos 16 , TF: 1]
+
+[WORD: hate, DF: 1] -->
+[DOCID: "9",pos 45 , TF: 1]
+
+[WORD: have, DF: 5] -->
+[DOCID: "2",pos 46,pos 106 , TF: 2]
+[DOCID: "3",pos 12 , TF: 1]
+[DOCID: "6",pos 52 , TF: 1]
+[DOCID: "8",pos 136,pos 172,pos 180 , TF: 3]
+[DOCID: "10",pos 26 , TF: 1]
+
+[WORD: he, DF: 1] -->
+[DOCID: "5",pos 15,pos 29 , TF: 2]
+
+[WORD: hero4, DF: 1] -->
+[DOCID: "4",pos 59,pos 93 , TF: 2]
+
+[WORD: his, DF: 1] -->
+[DOCID: "5",pos 10 , TF: 1]
+
+[WORD: hold, DF: 1] -->
+[DOCID: "7",pos 20 , TF: 1]
+
+[WORD: hundred, DF: 1] -->
+[DOCID: "8",pos 47 , TF: 1]
+
+[WORD: husband, DF: 1] -->
+[DOCID: "2",pos 9 , TF: 1]
+
+[WORD: i, DF: 7] -->
+[DOCID: "2",pos 3,pos 19,pos 27,pos 41,pos 44,pos 49,pos 57,pos 60,pos 69,pos 76,pos 97,pos 105,pos 112 , TF: 13]
+[DOCID: "3",pos 22 , TF: 1]
+[DOCID: "4",pos 3,pos 17,pos 28,pos 39,pos 49,pos 60,pos 83 , TF: 7]
+[DOCID: "6",pos 40,pos 44,pos 51,pos 67 , TF: 4]
+[DOCID: "8",pos 14,pos 53,pos 76,pos 79,pos 108,pos 116,pos 143,pos 150 , TF: 8]
+[DOCID: "9",pos 12,pos 24,pos 29,pos 34,pos 42,pos 53,pos 64,pos 75 , TF: 8]
+[DOCID: "10",pos 8,pos 13 , TF: 2]
+
+[WORD: if, DF: 4] -->
+[DOCID: "1",pos 40,pos 90 , TF: 2]
+[DOCID: "2",pos 96 , TF: 1]
+[DOCID: "3",pos 79 , TF: 1]
+[DOCID: "8",pos 160 , TF: 1]
+
+[WORD: immediately, DF: 1] -->
+[DOCID: "2",pos 77 , TF: 1]
+
+[WORD: in, DF: 3] -->
+[DOCID: "3",pos 47 , TF: 1]
+[DOCID: "8",pos 58,pos 126 , TF: 2]
+[DOCID: "9",pos 40,pos 58 , TF: 2]
+
+[WORD: instead, DF: 3] -->
+[DOCID: "5",pos 13 , TF: 1]
+[DOCID: "8",pos 186 , TF: 1]
+[DOCID: "9",pos 61 , TF: 1]
+
+[WORD: internet, DF: 1] -->
+[DOCID: "10",pos 27 , TF: 1]
+
+[WORD: ipad, DF: 1] -->
+[DOCID: "2",pos 118 , TF: 1]
+
+[WORD: iphone, DF: 1] -->
+[DOCID: "2",pos 24,pos 108 , TF: 2]
+
+[WORD: ipod, DF: 1] -->
+[DOCID: "2",pos 109 , TF: 1]
+
+[WORD: issue, DF: 2] -->
+[DOCID: "3",pos 13,pos 38 , TF: 2]
+[DOCID: "8",pos 44,pos 52,pos 100 , TF: 3]
+
+[WORD: it, DF: 8] -->
+[DOCID: "2",pos 43,pos 59,pos 85,pos 88,pos 101 , TF: 5]
+[DOCID: "3",pos 3,pos 26,pos 41,pos 50,pos 55,pos 80 , TF: 6]
+[DOCID: "4",pos 20,pos 30,pos 46,pos 62 , TF: 4]
+[DOCID: "5",pos 18,pos 21,pos 32 , TF: 3]
+[DOCID: "6",pos 25 , TF: 1]
+[DOCID: "8",pos 16,pos 32,pos 42,pos 57,pos 78,pos 89,pos 95,pos 119,pos 170,pos 178 , TF: 10]
+[DOCID: "9",pos 57,pos 63,pos 68 , TF: 3]
+[DOCID: "10",pos 11,pos 15,pos 22 , TF: 3]
+
+[WORD: its, DF: 2] -->
+[DOCID: "2",pos 73 , TF: 1]
+[DOCID: "9",pos 38,pos 86 , TF: 2]
+
+[WORD: jumpy, DF: 1] -->
+[DOCID: "8",pos 104 , TF: 1]
+
+[WORD: junk, DF: 1] -->
+[DOCID: "8",pos 107 , TF: 1]
+
+[WORD: just, DF: 2] -->
+[DOCID: "4",pos 40,pos 85 , TF: 2]
+[DOCID: "8",pos 59 , TF: 1]
+
+[WORD: justify, DF: 1] -->
+[DOCID: "9",pos 37 , TF: 1]
+
+[WORD: kinemaster, DF: 1] -->
+[DOCID: "4",pos 48 , TF: 1]
+
+[WORD: know, DF: 2] -->
+[DOCID: "1",pos 41 , TF: 1]
+[DOCID: "4",pos 61 , TF: 1]
+
+[WORD: l, DF: 1] -->
+[DOCID: "6",pos 39 , TF: 1]
+
+[WORD: laptop, DF: 1] -->
+[DOCID: "5",pos 14 , TF: 1]
+
+[WORD: later, DF: 1] -->
+[DOCID: "8",pos 94 , TF: 1]
+
+[WORD: least, DF: 1] -->
+[DOCID: "7",pos 17 , TF: 1]
+
+[WORD: less, DF: 1] -->
+[DOCID: "8",pos 193 , TF: 1]
+
+[WORD: lg, DF: 1] -->
+[DOCID: "1",pos 59 , TF: 1]
+
+[WORD: life, DF: 1] -->
+[DOCID: "5",pos 27 , TF: 1]
+
+[WORD: lighter, DF: 1] -->
+[DOCID: "6",pos 60 , TF: 1]
+
+[WORD: like, DF: 3] -->
+[DOCID: "1",pos 15 , TF: 1]
+[DOCID: "2",pos 61 , TF: 1]
+[DOCID: "8",pos 118 , TF: 1]
+
+[WORD: little, DF: 1] -->
+[DOCID: "4",pos 79 , TF: 1]
+
+[WORD: loss, DF: 1] -->
+[DOCID: "8",pos 128,pos 195 , TF: 2]
+
+[WORD: lot, DF: 2] -->
+[DOCID: "2",pos 71 , TF: 1]
+[DOCID: "5",pos 20 , TF: 1]
+
+[WORD: love, DF: 2] -->
+[DOCID: "2",pos 5,pos 45,pos 50 , TF: 3]
+[DOCID: "8",pos 15 , TF: 1]
+
+[WORD: lower, DF: 1] -->
+[DOCID: "1",pos 26 , TF: 1]
+
+[WORD: m, DF: 4] -->
+[DOCID: "4",pos 84 , TF: 1]
+[DOCID: "6",pos 45,pos 68 , TF: 2]
+[DOCID: "8",pos 151 , TF: 1]
+[DOCID: "9",pos 25,pos 30 , TF: 2]
+
+[WORD: machine, DF: 1] -->
+[DOCID: "4",pos 75 , TF: 1]
+
+[WORD: mainly, DF: 1] -->
+[DOCID: "10",pos 16 , TF: 1]
+
+[WORD: me, DF: 1] -->
+[DOCID: "2",pos 11 , TF: 1]
+
+[WORD: model, DF: 1] -->
+[DOCID: "6",pos 8 , TF: 1]
+
+[WORD: modern, DF: 1] -->
+[DOCID: "1",pos 24 , TF: 1]
+
+[WORD: money, DF: 2] -->
+[DOCID: "5",pos 12 , TF: 1]
+[DOCID: "8",pos 83,pos 177 , TF: 2]
+
+[WORD: month, DF: 2] -->
+[DOCID: "3",pos 9 , TF: 1]
+[DOCID: "8",pos 24,pos 93 , TF: 2]
+
+[WORD: more, DF: 2] -->
+[DOCID: "1",pos 23 , TF: 1]
+[DOCID: "8",pos 33 , TF: 1]
+
+[WORD: most, DF: 1] -->
+[DOCID: "1",pos 7 , TF: 1]
+
+[WORD: move, DF: 1] -->
+[DOCID: "2",pos 54 , TF: 1]
+
+[WORD: movies, DF: 1] -->
+[DOCID: "4",pos 33 , TF: 1]
+
+[WORD: much, DF: 3] -->
+[DOCID: "2",pos 113 , TF: 1]
+[DOCID: "8",pos 112 , TF: 1]
+[DOCID: "9",pos 33,pos 50 , TF: 2]
+
+[WORD: my, DF: 5] -->
+[DOCID: "2",pos 6,pos 8,pos 13,pos 90 , TF: 4]
+[DOCID: "4",pos 43,pos 58,pos 68,pos 89,pos 92 , TF: 5]
+[DOCID: "5",pos 3 , TF: 1]
+[DOCID: "6",pos 30,pos 55,pos 72 , TF: 3]
+[DOCID: "8",pos 121 , TF: 1]
+
+[WORD: myself, DF: 1] -->
+[DOCID: "9",pos 22 , TF: 1]
+
+[WORD: net, DF: 1] -->
+[DOCID: "4",pos 7 , TF: 1]
+
+[WORD: new, DF: 1] -->
+[DOCID: "8",pos 35 , TF: 1]
+
+[WORD: next, DF: 1] -->
+[DOCID: "1",pos 79 , TF: 1]
+
+[WORD: nexus, DF: 3] -->
+[DOCID: "1",pos 44 , TF: 1]
+[DOCID: "2",pos 7 , TF: 1]
+[DOCID: "6",pos 5,pos 32 , TF: 2]
+
+[WORD: nice, DF: 1] -->
+[DOCID: "10",pos 24 , TF: 1]
+
+[WORD: no, DF: 1] -->
+[DOCID: "9",pos 78 , TF: 1]
+
+[WORD: not, DF: 7] -->
+[DOCID: "2",pos 64 , TF: 1]
+[DOCID: "3",pos 40 , TF: 1]
+[DOCID: "4",pos 64 , TF: 1]
+[DOCID: "6",pos 46 , TF: 1]
+[DOCID: "7",pos 12 , TF: 1]
+[DOCID: "8",pos 152 , TF: 1]
+[DOCID: "9",pos 4 , TF: 1]
+
+[WORD: notice, DF: 1] -->
+[DOCID: "6",pos 12 , TF: 1]
+
+[WORD: now, DF: 4] -->
+[DOCID: "1",pos 30 , TF: 1]
+[DOCID: "2",pos 40 , TF: 1]
+[DOCID: "4",pos 12,pos 24,pos 25 , TF: 3]
+[DOCID: "8",pos 144 , TF: 1]
+
+[WORD: off, DF: 2] -->
+[DOCID: "4",pos 91 , TF: 1]
+[DOCID: "8",pos 190 , TF: 1]
+
+[WORD: old, DF: 1] -->
+[DOCID: "6",pos 7,pos 31,pos 56 , TF: 3]
+
+[WORD: one, DF: 3] -->
+[DOCID: "1",pos 4,pos 6,pos 58 , TF: 3]
+[DOCID: "6",pos 65 , TF: 1]
+[DOCID: "8",pos 36,pos 92,pos 141 , TF: 3]
+
+[WORD: only, DF: 3] -->
+[DOCID: "1",pos 34 , TF: 1]
+[DOCID: "2",pos 21 , TF: 1]
+[DOCID: "6",pos 42 , TF: 1]
+
+[WORD: onto, DF: 1] -->
+[DOCID: "4",pos 94 , TF: 1]
+
+[WORD: operate, DF: 1] -->
+[DOCID: "2",pos 37 , TF: 1]
+
+[WORD: option, DF: 1] -->
+[DOCID: "1",pos 28 , TF: 1]
+
+[WORD: or, DF: 4] -->
+[DOCID: "1",pos 60 , TF: 1]
+[DOCID: "2",pos 67 , TF: 1]
+[DOCID: "4",pos 71 , TF: 1]
+[DOCID: "7",pos 16 , TF: 1]
+
+[WORD: os, DF: 1] -->
+[DOCID: "1",pos 53,pos 83 , TF: 2]
+
+[WORD: out, DF: 1] -->
+[DOCID: "8",pos 25 , TF: 1]
+
+[WORD: over, DF: 2] -->
+[DOCID: "4",pos 22 , TF: 1]
+[DOCID: "8",pos 8 , TF: 1]
+
+[WORD: overall, DF: 1] -->
+[DOCID: "6",pos 24,pos 66 , TF: 2]
+
+[WORD: own, DF: 1] -->
+[DOCID: "1",pos 52 , TF: 1]
+
+[WORD: parts, DF: 1] -->
+[DOCID: "8",pos 86 , TF: 1]
+
+[WORD: pc, DF: 1] -->
+[DOCID: "4",pos 70 , TF: 1]
+
+[WORD: picky, DF: 1] -->
+[DOCID: "9",pos 27 , TF: 1]
+
+[WORD: piece, DF: 2] -->
+[DOCID: "8",pos 106 , TF: 1]
+[DOCID: "9",pos 47 , TF: 1]
+
+[WORD: plus, DF: 1] -->
+[DOCID: "1",pos 19 , TF: 1]
+
+[WORD: point, DF: 1] -->
+[DOCID: "9",pos 52 , TF: 1]
+
+[WORD: port, DF: 1] -->
+[DOCID: "3",pos 19,pos 66 , TF: 2]
+
+[WORD: powerful, DF: 1] -->
+[DOCID: "1",pos 8 , TF: 1]
+
+[WORD: pre, DF: 1] -->
+[DOCID: "5",pos 4 , TF: 1]
+
+[WORD: prefer, DF: 1] -->
+[DOCID: "2",pos 42,pos 114 , TF: 2]
+
+[WORD: present, DF: 1] -->
+[DOCID: "9",pos 70 , TF: 1]
+
+[WORD: price, DF: 2] -->
+[DOCID: "1",pos 73 , TF: 1]
+[DOCID: "2",pos 119 , TF: 1]
+
+[WORD: problem, DF: 3] -->
+[DOCID: "3",pos 32 , TF: 1]
+[DOCID: "4",pos 26 , TF: 1]
+[DOCID: "8",pos 38,pos 164 , TF: 2]
+
+[WORD: product, DF: 1] -->
+[DOCID: "8",pos 135,pos 147 , TF: 2]
+
+[WORD: profile, DF: 1] -->
+[DOCID: "1",pos 27 , TF: 1]
+
+[WORD: properly, DF: 1] -->
+[DOCID: "3",pos 52,pos 83 , TF: 2]
+
+[WORD: protect, DF: 1] -->
+[DOCID: "2",pos 87 , TF: 1]
+
+[WORD: protector, DF: 1] -->
+[DOCID: "2",pos 82 , TF: 1]
+
+[WORD: purchase, DF: 1] -->
+[DOCID: "6",pos 73 , TF: 1]
+
+[WORD: pushed, DF: 1] -->
+[DOCID: "8",pos 7 , TF: 1]
+
+[WORD: put, DF: 2] -->
+[DOCID: "2",pos 78 , TF: 1]
+[DOCID: "7",pos 18 , TF: 1]
+
+[WORD: quite, DF: 2] -->
+[DOCID: "5",pos 19 , TF: 1]
+[DOCID: "6",pos 69 , TF: 1]
+
+[WORD: react, DF: 1] -->
+[DOCID: "6",pos 58 , TF: 1]
+
+[WORD: read, DF: 1] -->
+[DOCID: "2",pos 70 , TF: 1]
+
+[WORD: reader, DF: 1] -->
+[DOCID: "10",pos 20 , TF: 1]
+
+[WORD: realize, DF: 1] -->
+[DOCID: "9",pos 76 , TF: 1]
+
+[WORD: really, DF: 3] -->
+[DOCID: "2",pos 4 , TF: 1]
+[DOCID: "6",pos 22 , TF: 1]
+[DOCID: "8",pos 117 , TF: 1]
+
+[WORD: rear, DF: 1] -->
+[DOCID: "6",pos 18 , TF: 1]
+
+[WORD: recommend, DF: 1] -->
+[DOCID: "5",pos 37 , TF: 1]
+
+[WORD: release, DF: 1] -->
+[DOCID: "8",pos 168 , TF: 1]
+
+[WORD: repair, DF: 2] -->
+[DOCID: "3",pos 30 , TF: 1]
+[DOCID: "8",pos 62 , TF: 1]
+
+[WORD: replace, DF: 1] -->
+[DOCID: "3",pos 69 , TF: 1]
+
+[WORD: responsive, DF: 2] -->
+[DOCID: "5",pos 24 , TF: 1]
+[DOCID: "6",pos 28,pos 49 , TF: 2]
+
+[WORD: restart, DF: 1] -->
+[DOCID: "2",pos 98 , TF: 1]
+
+[WORD: result, DF: 1] -->
+[DOCID: "8",pos 125 , TF: 1]
+
+[WORD: return, DF: 1] -->
+[DOCID: "9",pos 62 , TF: 1]
+
+[WORD: review, DF: 1] -->
+[DOCID: "8",pos 138 , TF: 1]
+
+[WORD: revision, DF: 1] -->
+[DOCID: "8",pos 169 , TF: 1]
+
+[WORD: ridiculous, DF: 1] -->
+[DOCID: "1",pos 38 , TF: 1]
+
+[WORD: right, DF: 1] -->
+[DOCID: "8",pos 182 , TF: 1]
+
+[WORD: rocks, DF: 1] -->
+[DOCID: "1",pos 76 , TF: 1]
+
+[WORD: roll, DF: 1] -->
+[DOCID: "8",pos 155 , TF: 1]
+
+[WORD: s, DF: 4] -->
+[DOCID: "3",pos 56 , TF: 1]
+[DOCID: "4",pos 15,pos 63 , TF: 2]
+[DOCID: "5",pos 30 , TF: 1]
+[DOCID: "10",pos 23 , TF: 1]
+
+[WORD: same, DF: 1] -->
+[DOCID: "10",pos 29 , TF: 1]
+
+[WORD: save, DF: 1] -->
+[DOCID: "5",pos 11 , TF: 1]
+
+[WORD: screen, DF: 5] -->
+[DOCID: "1",pos 32 , TF: 1]
+[DOCID: "2",pos 81 , TF: 1]
+[DOCID: "3",pos 16,pos 37,pos 59 , TF: 3]
+[DOCID: "6",pos 14,pos 50 , TF: 2]
+[DOCID: "8",pos 102 , TF: 1]
+
+[WORD: see, DF: 1] -->
+[DOCID: "8",pos 41 , TF: 1]
+
+[WORD: seem, DF: 1] -->
+[DOCID: "3",pos 42 , TF: 1]
+
+[WORD: send, DF: 2] -->
+[DOCID: "3",pos 25 , TF: 1]
+[DOCID: "8",pos 56 , TF: 1]
+
+[WORD: sensitive, DF: 1] -->
+[DOCID: "3",pos 46 , TF: 1]
+
+[WORD: several, DF: 1] -->
+[DOCID: "5",pos 33 , TF: 1]
+
+[WORD: shame, DF: 1] -->
+[DOCID: "8",pos 114 , TF: 1]
+
+[WORD: shop, DF: 1] -->
+[DOCID: "4",pos 36 , TF: 1]
+
+[WORD: should, DF: 1] -->
+[DOCID: "7",pos 22 , TF: 1]
+
+[WORD: size, DF: 1] -->
+[DOCID: "2",pos 62 , TF: 1]
+
+[WORD: slimport, DF: 1] -->
+[DOCID: "1",pos 16 , TF: 1]
+
+[WORD: slow, DF: 1] -->
+[DOCID: "9",pos 10 , TF: 1]
+
+[WORD: sluggy, DF: 1] -->
+[DOCID: "9",pos 87 , TF: 1]
+
+[WORD: small, DF: 1] -->
+[DOCID: "2",pos 68 , TF: 1]
+
+[WORD: so, DF: 3] -->
+[DOCID: "1",pos 63 , TF: 1]
+[DOCID: "2",pos 26 , TF: 1]
+[DOCID: "9",pos 49,pos 83 , TF: 2]
+
+[WORD: software, DF: 1] -->
+[DOCID: "1",pos 82 , TF: 1]
+
+[WORD: some, DF: 2] -->
+[DOCID: "1",pos 13 , TF: 1]
+[DOCID: "8",pos 133 , TF: 1]
+
+[WORD: sometimes, DF: 1] -->
+[DOCID: "2",pos 89 , TF: 1]
+
+[WORD: son, DF: 1] -->
+[DOCID: "5",pos 6 , TF: 1]
+
+[WORD: sony, DF: 1] -->
+[DOCID: "1",pos 61 , TF: 1]
+
+[WORD: soon, DF: 1] -->
+[DOCID: "9",pos 74 , TF: 1]
+
+[WORD: speaker, DF: 1] -->
+[DOCID: "6",pos 17 , TF: 1]
+
+[WORD: specially, DF: 1] -->
+[DOCID: "6",pos 34 , TF: 1]
+
+[WORD: star, DF: 1] -->
+[DOCID: "1",pos 87 , TF: 1]
+
+[WORD: stars, DF: 2] -->
+[DOCID: "1",pos 68 , TF: 1]
+[DOCID: "3",pos 78 , TF: 1]
+
+[WORD: start, DF: 2] -->
+[DOCID: "3",pos 11 , TF: 1]
+[DOCID: "4",pos 41 , TF: 1]
+
+[WORD: stero, DF: 1] -->
+[DOCID: "6",pos 16 , TF: 1]
+
+[WORD: still, DF: 1] -->
+[DOCID: "1",pos 11,pos 75 , TF: 2]
+
+[WORD: stock, DF: 1] -->
+[DOCID: "8",pos 13 , TF: 1]
+
+[WORD: storage, DF: 1] -->
+[DOCID: "2",pos 124 , TF: 1]
+
+[WORD: submit, DF: 1] -->
+[DOCID: "8",pos 64 , TF: 1]
+
+[WORD: super, DF: 1] -->
+[DOCID: "9",pos 9 , TF: 1]
+
+[WORD: sure, DF: 1] -->
+[DOCID: "2",pos 30 , TF: 1]
+
+[WORD: surprise, DF: 2] -->
+[DOCID: "2",pos 10 , TF: 1]
+[DOCID: "4",pos 52 , TF: 1]
+
+[WORD: suspension, DF: 1] -->
+[DOCID: "7",pos 25 , TF: 1]
+
+[WORD: system, DF: 2] -->
+[DOCID: "1",pos 9,pos 62 , TF: 2]
+[DOCID: "2",pos 38 , TF: 1]
+
+[WORD: t, DF: 3] -->
+[DOCID: "2",pos 29,pos 93 , TF: 2]
+[DOCID: "3",pos 61 , TF: 1]
+[DOCID: "8",pos 50 , TF: 1]
+
+[WORD: tablet, DF: 6] -->
+[DOCID: "2",pos 125 , TF: 1]
+[DOCID: "3",pos 74 , TF: 1]
+[DOCID: "4",pos 16,pos 80 , TF: 2]
+[DOCID: "6",pos 57 , TF: 1]
+[DOCID: "9",pos 11 , TF: 1]
+[DOCID: "10",pos 5 , TF: 1]
+
+[WORD: tech, DF: 1] -->
+[DOCID: "2",pos 79 , TF: 1]
+
+[WORD: teen, DF: 1] -->
+[DOCID: "5",pos 5 , TF: 1]
+
+[WORD: temperature, DF: 1] -->
+[DOCID: "3",pos 45 , TF: 1]
+
+[WORD: than, DF: 2] -->
+[DOCID: "2",pos 100 , TF: 1]
+[DOCID: "8",pos 34 , TF: 1]
+
+[WORD: that, DF: 6] -->
+[DOCID: "1",pos 17,pos 37 , TF: 2]
+[DOCID: "2",pos 126 , TF: 1]
+[DOCID: "3",pos 67 , TF: 1]
+[DOCID: "6",pos 54 , TF: 1]
+[DOCID: "8",pos 65 , TF: 1]
+[DOCID: "9",pos 23,pos 28,pos 46,pos 77 , TF: 4]
+
+[WORD: their, DF: 2] -->
+[DOCID: "1",pos 51 , TF: 1]
+[DOCID: "8",pos 134 , TF: 1]
+
+[WORD: them, DF: 2] -->
+[DOCID: "7",pos 19 , TF: 1]
+[DOCID: "8",pos 158,pos 174 , TF: 2]
+
+[WORD: then, DF: 2] -->
+[DOCID: "3",pos 10,pos 17 , TF: 2]
+[DOCID: "8",pos 20,pos 80 , TF: 2]
+
+[WORD: they, DF: 1] -->
+[DOCID: "8",pos 187 , TF: 1]
+
+[WORD: thing, DF: 2] -->
+[DOCID: "6",pos 43 , TF: 1]
+[DOCID: "8",pos 183 , TF: 1]
+
+[WORD: things, DF: 2] -->
+[DOCID: "1",pos 14 , TF: 1]
+[DOCID: "7",pos 9 , TF: 1]
+
+[WORD: this, DF: 9] -->
+[DOCID: "1",pos 3,pos 74 , TF: 2]
+[DOCID: "2",pos 18,pos 63,pos 115 , TF: 3]
+[DOCID: "3",pos 73 , TF: 1]
+[DOCID: "4",pos 78 , TF: 1]
+[DOCID: "5",pos 8 , TF: 1]
+[DOCID: "6",pos 64 , TF: 1]
+[DOCID: "8",pos 10,pos 21,pos 140 , TF: 3]
+[DOCID: "9",pos 7 , TF: 1]
+[DOCID: "10",pos 3 , TF: 1]
+
+[WORD: thought, DF: 1] -->
+[DOCID: "9",pos 65 , TF: 1]
+
+[WORD: thrill, DF: 1] -->
+[DOCID: "6",pos 47 , TF: 1]
+
+[WORD: throw, DF: 1] -->
+[DOCID: "9",pos 56 , TF: 1]
+
+[WORD: time, DF: 1] -->
+[DOCID: "8",pos 113 , TF: 1]
+
+[WORD: times, DF: 1] -->
+[DOCID: "5",pos 34 , TF: 1]
+
+[WORD: to, DF: 9] -->
+[DOCID: "1",pos 22 , TF: 1]
+[DOCID: "2",pos 34,pos 53,pos 86,pos 116 , TF: 4]
+[DOCID: "3",pos 24,pos 27,pos 43 , TF: 3]
+[DOCID: "4",pos 87 , TF: 1]
+[DOCID: "6",pos 37,pos 59,pos 63 , TF: 3]
+[DOCID: "7",pos 7,pos 14 , TF: 2]
+[DOCID: "8",pos 30,pos 60,pos 66,pos 73,pos 84,pos 154,pos 184 , TF: 7]
+[DOCID: "9",pos 20,pos 36,pos 51,pos 55,pos 66,pos 71,pos 81 , TF: 7]
+[DOCID: "10",pos 12,pos 25 , TF: 2]
+
+[WORD: too, DF: 5] -->
+[DOCID: "1",pos 81 , TF: 1]
+[DOCID: "2",pos 65 , TF: 1]
+[DOCID: "7",pos 3 , TF: 1]
+[DOCID: "8",pos 111 , TF: 1]
+[DOCID: "9",pos 26,pos 32 , TF: 2]
+
+[WORD: topnotch, DF: 1] -->
+[DOCID: "1",pos 70 , TF: 1]
+
+[WORD: touch, DF: 4] -->
+[DOCID: "2",pos 110 , TF: 1]
+[DOCID: "3",pos 15,pos 36,pos 58 , TF: 3]
+[DOCID: "6",pos 61 , TF: 1]
+[DOCID: "8",pos 101 , TF: 1]
+
+[WORD: tough, DF: 1] -->
+[DOCID: "5",pos 28 , TF: 1]
+
+[WORD: trivial, DF: 1] -->
+[DOCID: "8",pos 175 , TF: 1]
+
+[WORD: try, DF: 1] -->
+[DOCID: "9",pos 13,pos 35 , TF: 2]
+
+[WORD: two, DF: 1] -->
+[DOCID: "9",pos 18 , TF: 1]
+
+[WORD: ugly, DF: 1] -->
+[DOCID: "9",pos 89 , TF: 1]
+
+[WORD: unable, DF: 1] -->
+[DOCID: "7",pos 6 , TF: 1]
+
+[WORD: unit, DF: 1] -->
+[DOCID: "8",pos 167 , TF: 1]
+
+[WORD: unlike, DF: 1] -->
+[DOCID: "6",pos 29 , TF: 1]
+
+[WORD: unresponsive, DF: 1] -->
+[DOCID: "8",pos 105 , TF: 1]
+
+[WORD: up, DF: 2] -->
+[DOCID: "8",pos 55 , TF: 1]
+[DOCID: "9",pos 44 , TF: 1]
+
+[WORD: update, DF: 2] -->
+[DOCID: "1",pos 91 , TF: 1]
+[DOCID: "8",pos 6 , TF: 1]
+
+[WORD: upgrade, DF: 1] -->
+[DOCID: "6",pos 3,pos 36 , TF: 2]
+
+[WORD: use, DF: 7] -->
+[DOCID: "1",pos 50 , TF: 1]
+[DOCID: "2",pos 22,pos 33 , TF: 2]
+[DOCID: "4",pos 6,pos 29 , TF: 2]
+[DOCID: "5",pos 17 , TF: 1]
+[DOCID: "7",pos 15 , TF: 1]
+[DOCID: "8",pos 81 , TF: 1]
+[DOCID: "10",pos 14 , TF: 1]
+
+[WORD: ve, DF: 2] -->
+[DOCID: "4",pos 4,pos 18 , TF: 2]
+[DOCID: "8",pos 109 , TF: 1]
+
+[WORD: vein, DF: 1] -->
+[DOCID: "9",pos 41 , TF: 1]
+
+[WORD: very, DF: 2] -->
+[DOCID: "4",pos 51 , TF: 1]
+[DOCID: "9",pos 15 , TF: 1]
+
+[WORD: video, DF: 1] -->
+[DOCID: "4",pos 45,pos 56,pos 73,pos 90 , TF: 4]
+
+[WORD: vimeo, DF: 1] -->
+[DOCID: "4",pos 95 , TF: 1]
+
+[WORD: want, DF: 4] -->
+[DOCID: "2",pos 58 , TF: 1]
+[DOCID: "7",pos 13 , TF: 1]
+[DOCID: "8",pos 28 , TF: 1]
+[DOCID: "10",pos 10 , TF: 1]
+
+[WORD: warm, DF: 1] -->
+[DOCID: "3",pos 57 , TF: 1]
+
+[WORD: warranty, DF: 1] -->
+[DOCID: "8",pos 26,pos 74 , TF: 2]
+
+[WORD: was, DF: 4] -->
+[DOCID: "1",pos 5 , TF: 1]
+[DOCID: "2",pos 120 , TF: 1]
+[DOCID: "3",pos 33 , TF: 1]
+[DOCID: "8",pos 11 , TF: 1]
+
+[WORD: wasn, DF: 1] -->
+[DOCID: "2",pos 28 , TF: 1]
+
+[WORD: waste, DF: 1] -->
+[DOCID: "8",pos 110 , TF: 1]
+
+[WORD: watch, DF: 1] -->
+[DOCID: "4",pos 32 , TF: 1]
+
+[WORD: we, DF: 1] -->
+[DOCID: "1",pos 55 , TF: 1]
+
+[WORD: web, DF: 1] -->
+[DOCID: "4",pos 38 , TF: 1]
+
+[WORD: week, DF: 1] -->
+[DOCID: "9",pos 19 , TF: 1]
+
+[WORD: weight, DF: 1] -->
+[DOCID: "2",pos 74 , TF: 1]
+
+[WORD: well, DF: 1] -->
+[DOCID: "2",pos 129 , TF: 1]
+
+[WORD: went, DF: 1] -->
+[DOCID: "3",pos 20 , TF: 1]
+
+[WORD: were, DF: 1] -->
+[DOCID: "3",pos 39 , TF: 1]
+
+[WORD: what, DF: 1] -->
+[DOCID: "4",pos 81 , TF: 1]
+
+[WORD: whatsoever, DF: 1] -->
+[DOCID: "4",pos 27 , TF: 1]
+
+[WORD: when, DF: 3] -->
+[DOCID: "1",pos 20,pos 54 , TF: 2]
+[DOCID: "3",pos 54 , TF: 1]
+[DOCID: "8",pos 75 , TF: 1]
+
+[WORD: where, DF: 1] -->
+[DOCID: "2",pos 56 , TF: 1]
+
+[WORD: which, DF: 1] -->
+[DOCID: "8",pos 69 , TF: 1]
+
+[WORD: widespread, DF: 1] -->
+[DOCID: "8",pos 43 , TF: 1]
+
+[WORD: will, DF: 1] -->
+[DOCID: "8",pos 40 , TF: 1]
+
+[WORD: willing, DF: 1] -->
+[DOCID: "8",pos 153 , TF: 1]
+
+[WORD: with, DF: 7] -->
+[DOCID: "1",pos 57 , TF: 1]
+[DOCID: "2",pos 17 , TF: 1]
+[DOCID: "3",pos 14 , TF: 1]
+[DOCID: "4",pos 47 , TF: 1]
+[DOCID: "5",pos 9 , TF: 1]
+[DOCID: "6",pos 71 , TF: 1]
+[DOCID: "8",pos 123,pos 130,pos 157 , TF: 3]
+
+[WORD: won, DF: 3] -->
+[DOCID: "2",pos 92 , TF: 1]
+[DOCID: "3",pos 60 , TF: 1]
+[DOCID: "8",pos 49 , TF: 1]
+
+[WORD: work, DF: 2] -->
+[DOCID: "2",pos 94 , TF: 1]
+[DOCID: "3",pos 4,pos 62,pos 82 , TF: 3]
+
+[WORD: working, DF: 1] -->
+[DOCID: "8",pos 90 , TF: 1]
+
+[WORD: works, DF: 1] -->
+[DOCID: "2",pos 102,pos 128 , TF: 2]
+
+[WORD: worst, DF: 1] -->
+[DOCID: "1",pos 49 , TF: 1]
+
+[WORD: would, DF: 3] -->
+[DOCID: "3",pos 75 , TF: 1]
+[DOCID: "5",pos 36 , TF: 1]
+[DOCID: "8",pos 171,pos 179 , TF: 2]
+
+[WORD: writing, DF: 1] -->
+[DOCID: "8",pos 189 , TF: 1]
+
+[WORD: year, DF: 3] -->
+[DOCID: "1",pos 80 , TF: 1]
+[DOCID: "2",pos 15 , TF: 1]
+[DOCID: "8",pos 19,pos 72 , TF: 2]
+
+[WORD: years, DF: 1] -->
+[DOCID: "4",pos 11 , TF: 1]
+
+[WORD: you, DF: 3] -->
+[DOCID: "6",pos 9 , TF: 1]
+[DOCID: "7",pos 10 , TF: 1]
+[DOCID: "8",pos 39 , TF: 1]
+
+
+
+----------------------------------

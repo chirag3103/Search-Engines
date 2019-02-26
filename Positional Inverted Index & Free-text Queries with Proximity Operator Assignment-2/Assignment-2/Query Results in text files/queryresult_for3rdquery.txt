@@ -1,0 +1,3 @@
+The documents are ranked based on the score (Descending Order)
+query: 0(touch screen) fix repair in doc: 8 has score: 10.445428246395291
+query: 0(touch screen) fix repair in doc: 3 has score: 8.103195160824697

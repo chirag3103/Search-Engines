@@ -1,0 +1,6 @@
+The documents are ranked based on the score (Descending Order)
+query: nexus like love happy in doc: 2 has score: 10.471015334839997
+query: nexus like love happy in doc: 6 has score: 6.750503473685014
+query: nexus like love happy in doc: 1 has score: 4.747171854067857
+query: nexus like love happy in doc: 8 has score: 5.546530669359077
+query: nexus like love happy in doc: 4 has score: 3.172944742325149

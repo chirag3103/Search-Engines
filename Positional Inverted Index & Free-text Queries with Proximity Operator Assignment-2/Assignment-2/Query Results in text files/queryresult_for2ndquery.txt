@@ -1,0 +1,4 @@
+The documents are ranked based on the score (Descending Order)
+query: asus repair in doc: 8 has score: 8.342068949203794
+query: asus repair in doc: 3 has score: 5.546530669359077
+query: asus repair in doc: 1 has score: 3.577558731359865

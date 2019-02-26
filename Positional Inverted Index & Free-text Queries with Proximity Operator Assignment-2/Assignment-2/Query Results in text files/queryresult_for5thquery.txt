@@ -1,0 +1,7 @@
+The documents are ranked based on the score (Descending Order)
+query: tablet in doc: 4 has score: 15.17898630218255
+query: tablet in doc: 2 has score: 10.070730064522643
+query: tablet in doc: 3 has score: 10.070730064522643
+query: tablet in doc: 6 has score: 10.070730064522643
+query: tablet in doc: 9 has score: 10.070730064522643
+query: tablet in doc: 10 has score: 10.070730064522643
