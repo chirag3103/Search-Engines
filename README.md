@@ -1,2 +1,2 @@
 # Search-Engines
-My implementation of CSC 0849 Search Engines assignments
+My implementation of CSC 0849 Search Engines assignments in Java
